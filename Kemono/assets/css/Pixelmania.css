@@ -1,9 +1,0 @@
-@font-face {
-	font-family: 'Pixelmania';
-	src: url(../fonts/Pixelmania.ttf.woff) format('woff'),
-	url(../fonts/Pixelmania.ttf.svg) format('svg'),
-	url(../fonts/Pixelmania.ttf.eot) format('embedded-opentype');
-	font-weight: normal;
-	font-style: normal;
-	font-display: auto;
-}
